@@ -1,4 +1,3 @@
-<b><i>
 # ***Machine Learning and its use cases in Cybersecurity***
 
 <p align="center">
@@ -75,5 +74,3 @@ This is probably one of the most attractive benefits of using machine learning i
 
 ### Thankyou For Reading : )
 ### Any query and suggestion are always welcome — [Gaurav Pagare](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)
-
-</i></b>
