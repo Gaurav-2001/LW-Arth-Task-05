@@ -8,13 +8,13 @@
 ### ***What is machine learning ?***
 Machine learning is a subset of artificial intelligence (AI) that takes some inputs (called Training) then applies advanced algorithms, statistical and mathematical models to predict an outcome. There are several types of machine learning systems based on what algorithm or data processing technique used, such as:
 
-✔ Supervised
-✔ Unsupervised
-✔ Reinforced learning
-✔ Bayesian network
-✔ Neural Network
-✔ Generative adversarial network (GAN)
-✔ Association rule learning And other
+✔ Supervised </br>
+✔ Unsupervised </br>
+✔ Reinforced learning </br>
+✔ Bayesian network </br>
+✔ Neural Network </br>
+✔ Generative adversarial network (GAN) </br>
+✔ Association rule learning And other </br>
 
 They all have unique use cases, but the premise is basically the same: inference and optimization — that is, how well can you predict something based on what occurred already
 
